@@ -35,9 +35,3 @@ Output was obtained in a .json along with a PNG in a folder. A plot was obtained
 A final comparision was made between the laser temperature over spectral center of mass. This is the final obtained result.
 
 ![Timimg and Triggering Diagram](media/result4.png)
-
-## Roadmap
-
-## License
-
-## Project Status
